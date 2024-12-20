@@ -12,8 +12,8 @@ const projectsData = [
       description: "The project is a personal portfolio website built with NestJS and styled using Tailwind CSS. It combines a scalable backend with a responsive, customizable frontend. The site showcases the developer's skills, projects, and experience, offering an interactive platform for potential clients or employers to explore.",
       image: "/images/port.png",
       tag: ["All", "Web"],
-      gitUrl: "/",
-      previewUrl: "/",
+      gitUrl: "https://github.com/rishiSurya9/Portfolio",
+      previewUrl: "https://rushi-d8h4w8tvq-rushikeshs-projects-6dd054fa.vercel.app/",
     },
     {
       id: 2,
