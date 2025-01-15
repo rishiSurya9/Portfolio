@@ -22,7 +22,7 @@ const achievementsList = [
   },
   {
     metric: "LeetCode Questions",
-    value: "280",
+    value: "300",
     postfix: "+",
   },
   {

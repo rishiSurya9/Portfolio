@@ -13,7 +13,7 @@ const projectsData = [
       image: "/images/port.png",
       tag: ["All", "Web"],
       gitUrl: "https://github.com/rishiSurya9/Portfolio",
-      previewUrl: "https://rushi-d8h4w8tvq-rushikeshs-projects-6dd054fa.vercel.app/",
+      previewUrl: "/",
     },
     {
       id: 2,
