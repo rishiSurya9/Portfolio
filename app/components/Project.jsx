@@ -44,7 +44,7 @@ const projectsData = [
     },
     {
       id: 5,
-      title: "Live Weather App",
+      title: " Climatic Insights",
       description: "The weather application provides real-time weather updates based on user input. It displays details like temperature, humidity, wind speed, and weather conditions. The app is designed to offer an easy-to-use interface for checking weather data for any location, keeping users informed about current weather conditions.",
       image: "/images/WeatherApp.png",
       tag: ["All", "Web"],
