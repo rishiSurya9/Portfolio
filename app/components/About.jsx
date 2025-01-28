@@ -62,11 +62,8 @@ const About = () => {
           <p className="text-base lg:text-lg">
           I am a full stack web developer with expertise in HTML, CSS, JavaScript,
            React.js, Express, Node.js, and SQL. 
-           I also have skills in Java and Python and am passionate about Artificial Intelligence. I am a quick learner who enjoys expan
-           ding my knowledge and skill set. I am a team player, exci
-           ted to collaborate with others to create in
-   
-          novative and impactful applications
+           I also have skills in Java and Python and I am passionate about Artificial Intelligence.
+           I am a quick learner who enjoys expanding my knowledge and skill set. I am a team player, excited to collaborate with others to create innovative and impactful applications
           </p>
           <div className="flex flex-row justify-start mt-8">
           <TabButton

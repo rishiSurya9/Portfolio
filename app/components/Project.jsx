@@ -31,7 +31,7 @@ const projectsData = [
       image: "/images/QR_Code.png",
       tag: ["All", "Web"],
       gitUrl: "https://github.com/rishiSurya9/QR-generator",
-      previewUrl: "https://rishisurya9.github.io/QR-generator/",
+      previewUrl: "https://qr-generator-blush-iota.vercel.app/",
     },
     {
       id: 4,
@@ -49,7 +49,7 @@ const projectsData = [
       image: "/images/WeatherApp.png",
       tag: ["All", "Web"],
       gitUrl: "https://github.com/rishiSurya9/weatherApp",
-      previewUrl: "https://rishisurya9.github.io/weatherApp/",
+      previewUrl: "https://weather-app-two-phi-83.vercel.app/",
     },
     {
       id: 6,
