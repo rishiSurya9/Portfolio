@@ -26,6 +26,15 @@ const projectsData = [
     },
     {
       id: 3,
+      title: "RentNow",
+      description: "Full-Stack RentNow is a web application designed to facilitate the process of renting properties. It allows property owners to list their homes and offices, while customers can easily browse through available rental options.",
+      image: "/images/RentNow.png",
+      tag: ["All", "Web"],
+      gitUrl: "https://github.com/rishiSurya9/rentnow",
+      previewUrl: "https://rentnow-indol.vercel.app/",
+    },
+    {
+      id: 4,
       title: "QR Code Generator",
       description: "The QR Code Generator project allows users to create custom QR codes by inputting content and selecting the size (from 100x100 to 1000x1000 pixels). Once generated, users can download the QR code for various uses. This tool simplifies creating scannable codes for personal or professional purposes.",
       image: "/images/QR_Code.png",
@@ -34,7 +43,7 @@ const projectsData = [
       previewUrl: "https://qr-generator-blush-iota.vercel.app/",
     },
     {
-      id: 4,
+      id: 5,
       title: "AI ChatBot",
       description: "The ChatBot project is a conversational AI system using Natural Language Processing (NLP) and neural networks. It features a graphical user interface (GUI) for user interaction and voice automation for hands-free use. The chatbot responds to queries via a trained neural network model, built using technologies like Python, Tkinter, TensorFlow/Keras, and NLP libraries such as NLTK.",
       image: "/images/chat.png",
@@ -43,22 +52,13 @@ const projectsData = [
       previewUrl: "https://github.com/rishiSurya9/ChatBot",
     },
     {
-      id: 5,
+      id: 6,
       title: " Climatic Insights",
       description: "The weather application provides real-time weather updates based on user input. It displays details like temperature, humidity, wind speed, and weather conditions. The app is designed to offer an easy-to-use interface for checking weather data for any location, keeping users informed about current weather conditions.",
       image: "/images/WeatherApp.png",
       tag: ["All", "Web"],
       gitUrl: "https://github.com/rishiSurya9/weatherApp",
       previewUrl: "https://weather-app-two-phi-83.vercel.app/",
-    },
-    {
-      id: 6,
-      title: "E-commerce Application",
-      description: "The eCommerce website utilizes HTML, CSS, JavaScript, PHP, and SQL to offer an online shopping experience. Users can browse products, add them to the cart, and make secure purchases. SQL supports backend features like product management and order processing, while PHP handles dynamic content. The front end provides a smooth, user-friendly interface for easy navigation and transactions, including order history and checkout.",
-      image: "/images/3.png",
-      tag: ["All", "Web"],
-      gitUrl: "/",
-      previewUrl: "/",
     },
   ];
 
