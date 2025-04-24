@@ -8,11 +8,11 @@ import { motion, useInView } from "framer-motion";
 const projectsData = [
     {
       id: 1,
-      title: "React Portfolio Website",
-      description: "The project is a personal portfolio website built with NestJS and styled using Tailwind CSS. It combines a scalable backend with a responsive, customizable frontend. The site showcases the developer's skills, projects, and experience, offering an interactive platform for potential clients or employers to explore.",
-      image: "/images/port.png",
+      title: "Aniket Hospital",
+      description: "Aniket Hospital’s website offers a user-friendly platform for booking medical appointments online. It provides an easy and convenient way for patients to schedule appointments with doctors across various specialties.",
+      image: "/images/aniket_hos.png",
       tag: ["All", "Web"],
-      gitUrl: "https://github.com/rishiSurya9/Portfolio",
+      gitUrl: "https://aniket-hospital.vercel.app/",
       previewUrl: "/",
     },
     {
